@@ -1,0 +1,40 @@
+/* add your CSS here */
+html{
+	font-family: "Helvetica", "Arial", "sans-serif";
+}
+#box{
+	width:300px;
+	padding:10px;
+	border: 1px solid #CAC9C9;
+	box-shadow: 5px 5px 0px 0px #D3D3D3;
+}
+
+.title{
+	font-size: bold;
+	
+}
+
+.pic{
+	width: 300px;
+	border: 1px solid rgba(103,97,97,1.00); 
+}
+
+.description{
+	padding: 10px;
+	margin: 0px;
+	border: 1px solid #B1B0B0;
+}
+
+.fact
+{
+	font-style: italic;
+}
+
+.list{
+	list-style: none;
+	padding: 0px;
+}
+
+.item{
+	font-weight: bold;
+}
